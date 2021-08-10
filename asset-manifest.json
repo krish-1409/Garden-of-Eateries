@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Garden-of-Eateries/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Garden-of-Eateries/static/js/main.9a9c981d.chunk.js",
+    "main.js.map": "/Garden-of-Eateries/static/js/main.9a9c981d.chunk.js.map",
+    "runtime-main.js": "/Garden-of-Eateries/static/js/runtime-main.8dde0d4d.js",
+    "runtime-main.js.map": "/Garden-of-Eateries/static/js/runtime-main.8dde0d4d.js.map",
+    "static/js/2.017de801.chunk.js": "/Garden-of-Eateries/static/js/2.017de801.chunk.js",
+    "static/js/2.017de801.chunk.js.map": "/Garden-of-Eateries/static/js/2.017de801.chunk.js.map",
+    "index.html": "/Garden-of-Eateries/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Garden-of-Eateries/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.017de801.chunk.js.LICENSE.txt": "/Garden-of-Eateries/static/js/2.017de801.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dde0d4d.js",
+    "static/js/2.017de801.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.9a9c981d.chunk.js"
+  ]
+}
