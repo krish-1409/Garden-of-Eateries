@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Garden-of-Eateries/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/Garden-of-Eateries/static/js/main.9a9c981d.chunk.js",
-    "main.js.map": "/Garden-of-Eateries/static/js/main.9a9c981d.chunk.js.map",
+    "main.js": "/Garden-of-Eateries/static/js/main.b3e1ff84.chunk.js",
+    "main.js.map": "/Garden-of-Eateries/static/js/main.b3e1ff84.chunk.js.map",
     "runtime-main.js": "/Garden-of-Eateries/static/js/runtime-main.8dde0d4d.js",
     "runtime-main.js.map": "/Garden-of-Eateries/static/js/runtime-main.8dde0d4d.js.map",
     "static/js/2.017de801.chunk.js": "/Garden-of-Eateries/static/js/2.017de801.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.8dde0d4d.js",
     "static/js/2.017de801.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.9a9c981d.chunk.js"
+    "static/js/main.b3e1ff84.chunk.js"
   ]
 }
