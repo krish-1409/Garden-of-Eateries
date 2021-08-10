@@ -10,6 +10,8 @@ justify-content: space-between;
 padding:15px;
 font-size:22px;
 box-shadow:0 3px 6px 0 #555;
+position:fixed;
+width:100%;
 `;
 export const AppNameComponent = styled.div`
 display:flex;
@@ -28,6 +30,8 @@ padding:15px;
 border-radius:6px;
 width:50%;
 height:20%;
+margin-right:50px;
+margin-left:10px;
 `;
 export const SearchIcon = styled.img`
 width:32px;

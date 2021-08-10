@@ -7,19 +7,21 @@ flex-wrap: wrap;
 padding: 30px;
 justify-content: space-evenly;
 gap: 20px;
+margin-top:80px;
 `;
 
 export const RecipeContainer = styled.div`
 display: flex;
 flex-direction: column;
 padding:10px;
-width:275px;
+width:250px;
 box-shadow: 0 3px 10px 0 #aaa;
 
 `;
 
 export const CoverImage = styled.img`
 height: 200px;
+object-fir:cover;
 `;
 
 export const RecipeName = styled.span`
